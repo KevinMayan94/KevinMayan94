@@ -1,33 +1,21 @@
-# Kevin Mayán Fabeiro
+# Kevin Mayan
 
-**Junior DevOps & Cloud Engineer** — A Coruña, Spain · Open to EU roles & remote
+Junior backend / full-stack developer based in Spain. I build REST APIs and the data models behind them, with Laravel, MySQL/PostgreSQL and Docker, and I'm comfortable on the Angular/TypeScript side that consumes them.
 
----
+Currently finishing a Full Stack Development programme (DAW) and looking for junior backend, full-stack or PHP/Laravel roles in Europe or remote.
 
-I'm a self-taught DevOps engineer transitioning from industrial work into cloud infrastructure and automation. Currently completing a Higher Vocational Full Stack Development programme (DAW) at IES San Clemente, with a focus on Linux, containerisation, CI/CD pipelines, and cloud services alongside the web dev curriculum.
+## What I'm working with
 
-I've been building towards a career in DevOps while working full-time — which means everything I know, I went out and learned on purpose.
+- **Backend:** PHP, Laravel, REST APIs
+- **Databases:** MySQL, PostgreSQL
+- **Frontend:** Angular, TypeScript, JavaScript
+- **Tools:** Docker, Git
 
----
+## What I'm working towards
 
-## 🛠️ Stack & Tools
-
-**Cloud & Infrastructure**
-`AWS (EC2 · S3 · IAM · CloudWatch)` `Docker` `Linux (Ubuntu/Debian)` `Bash`
-
-**Dev & Tooling**
-`Git / GitHub` `REST APIs` `Node.js` `JavaScript (ES6+)` `Java` `SQL`
-
-**Concepts**
-`CI/CD fundamentals` `OOP` `Agile / Scrum` `Networking basics`
-
----
-
-## 🎯 What I'm working towards
-
-- Land a junior DevOps, cloud support, or cloud engineer role in Europe or remote
-- Get hands-on with Terraform, GitHub Actions, and Kubernetes
-- Build and document real infrastructure projects in this GitHub
+- Land a junior full-stack, backend or PHP/Laravel developer role in Europe or remote
+- Go deeper on Laravel, relational data modeling and REST API design
+- Build and document real full-stack projects in this GitHub
 - Keep shipping, keep learning
 
 ---
@@ -35,8 +23,6 @@ I've been building towards a career in DevOps while working full-time — which 
 ## 🌍 Languages
 
 🇬🇧 English — C2 (native-level) &nbsp;|&nbsp; 🇪🇸 Spanish — Native &nbsp;|&nbsp; 🇵🇹 Portuguese — Fluent &nbsp;|&nbsp; 🇩🇪 German — Basic
-
----
 
 ## 📫 Let's connect
 
