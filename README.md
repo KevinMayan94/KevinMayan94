@@ -4,7 +4,7 @@
 
 Before code I spent years in industrial work, where "good enough" isn't an option. I brought that habit with me: I test my assumptions, I read the docs, and I finish things.
 
-🔭 **Currently building:** [Project name](link), [one line on what it does]
+
 📚 **Finishing:** Full Stack Development programme (DAW)
 🎯 **Looking for:** junior backend, full-stack or PHP/Laravel roles in Europe or remote
 
