@@ -8,17 +8,7 @@ Before code I spent years in industrial work, where "good enough" isn't an optio
 📚 **Finishing:** Full Stack Development programme (DAW)
 🎯 **Looking for:** junior backend, full-stack or PHP/Laravel roles in Europe or remote
 
----
 
-## Featured project
-
-<a href="link-to-repo">
-  <img src="screenshot.png" alt="Project name screenshot" width="700">
-</a>
-
-**[Project name](link-to-repo)**: what it does and who it's for, in one sentence.
-What's interesting under the hood: [one technical decision, e.g. how you modeled the data or handled permissions].
-`Laravel` `MySQL` `Docker` · [Live demo](link)
 
 ---
 
